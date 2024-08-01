@@ -52,9 +52,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <p className='text-white text-[26px] lg:text-[36px] font-bold pointer-events-auto cursor-pointer flex'>
-            
-          </p>
+          
         </Link>
 
         <ul className='list-none hidden sm:flex flex-col gap-5'>

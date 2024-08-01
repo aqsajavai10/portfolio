@@ -72,11 +72,6 @@
   --parallax-speed: 270;
   z-index: 4;
 }
-
-.parallax__mountain1 {
-  --parallax-speed: 250;
-  z-index: 5;
-}
 .parallax__girl {
   --parallax-speed: 250;
   z-index: 5;
@@ -84,9 +79,9 @@
   
   height: 100vh;
 }
-.h1{
-  z-index: 7;
-
+.parallax__mountain1 {
+  --parallax-speed: 250;
+  z-index: 5;
 }
 
 .parallax__mountain2 {
